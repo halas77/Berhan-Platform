@@ -4,11 +4,6 @@
 
 
 body {
-    background-color: black;
+    background-color: white;
 }
 
-
-.Hero-section {
-  background-image: url('../public/hero1.jpg');
-  background-size: "cover";
-}
